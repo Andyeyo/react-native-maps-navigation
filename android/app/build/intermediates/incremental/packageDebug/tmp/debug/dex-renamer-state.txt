@@ -1,0 +1,4 @@
+#Thu Jun 25 15:54:02 ECT 2020
+base.0=/home/andres/Documentos/Mivilsoft/Delivery/Ejemplos React Native/react-native-maps-navigation/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

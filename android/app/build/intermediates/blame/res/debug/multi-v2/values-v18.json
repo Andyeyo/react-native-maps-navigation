@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/andres/Documentos/Mivilsoft/Delivery/Ejemplos React Native/react-native-maps-navigation/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/andres/.gradle/caches/transforms-2/files-2.1/732031d63668ad57c517ecfa19111f4b/appcompat-v7-23.0.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "48",
+                        "endOffsets": "324"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
